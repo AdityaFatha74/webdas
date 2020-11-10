@@ -1,2 +1,0 @@
-# webdas
-tugas-uts
