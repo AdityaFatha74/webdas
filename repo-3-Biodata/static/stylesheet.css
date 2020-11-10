@@ -1,0 +1,80 @@
+.bg{
+    background-color: rgb(225, 226, 226);
+    width: 100% auto;
+    height: 100% auto;
+}
+.h4 {
+    height: 450px;
+    width: 850px;
+    font-size: 160%;
+}
+
+.box2, p{
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 30px;
+    margin-left: 3%;
+    background-color: rgb(253, 253, 253);S
+
+}
+
+.atas, h1{
+    font-family: Verdana;
+    text-align: right;
+    font-size: 200%;
+    height: 35px;
+    width: 1000px;
+    margin-left: 80%;
+
+}
+
+#kiri{
+    float: left;
+    width: 700px;
+    height: 40px;
+    margin-left: 50%;
+}
+.kanan{
+    width: 200px;
+    float: right;
+    margin-right: -25%;
+}
+
+.box2{
+    font-size: large;
+    text-align: left;
+    margin-left: 800px;
+    margin-top: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid rgb(255, 255, 255);
+    width: 1350px;
+    height: 630px;
+    border: 1px solid rgb(204, 195, 195);
+}
+.tabel2{
+    border-collapse: collapse;
+    margin-left: 40px;
+    width: 1270px;
+    height: auto;
+}
+
+.tabel2 th, td{
+    border: 1px solid rgb(219, 213, 213);
+    
+    
+}
+.tabel2 th, td{
+    padding: 12px;
+    
+    
+}
+.tabel2 th{
+    font-family:sans-serif;
+    background-color: rgb(29, 90, 131);
+    color: white;
+    
+}
+
+.tabel2 tr:nth-child(even){
+    background-color: #f2f2f2;
+} 
